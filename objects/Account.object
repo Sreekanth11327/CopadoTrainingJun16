@@ -358,6 +358,17 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Test1__c</fullName>
+        <externalId>false</externalId>
+        <label>Test1</label>
+        <length>29</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
